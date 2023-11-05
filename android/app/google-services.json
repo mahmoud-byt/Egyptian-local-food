@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "993771783319",
+    "project_id": "restaurant-app-bb19b",
+    "storage_bucket": "restaurant-app-bb19b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993771783319:android:192cf144fac866d11455d2",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993771783319-lr2ekfnk0ltirlljke0loiikvuoor4hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaLOf4P5mzXEiC-Q8E6-d95d8oxPDY4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993771783319-lr2ekfnk0ltirlljke0loiikvuoor4hu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993771783319-bb9mmg4s5755o8lvq30v5in1c164tmtk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993771783319:android:f0aeb3e3b32cdf151455d2",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993771783319-lr2ekfnk0ltirlljke0loiikvuoor4hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaLOf4P5mzXEiC-Q8E6-d95d8oxPDY4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993771783319-lr2ekfnk0ltirlljke0loiikvuoor4hu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993771783319-bb9mmg4s5755o8lvq30v5in1c164tmtk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
